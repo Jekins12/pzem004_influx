@@ -9,12 +9,12 @@ This project uses an ESP8266 or ESP32 microcontroller to monitor electrical para
 
 ## Requirements
 
--### Hardware:
+### Hardware:
 - ESP8266 or ESP32
 - PZEM004Tv30 sensor
 - InfluxDB server
   
--### Libraries:
+### Libraries:
 
 - ESP8266WebServer
 - ArduinoJson
