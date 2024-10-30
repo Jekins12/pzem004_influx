@@ -23,12 +23,12 @@ This project uses an ESP8266 or ESP32 microcontroller to monitor electrical para
 
 ## Configuration
 
-`#define WIFI_SSID "your_wifi_ssid"`
-`#define WIFI_PASSWORD "your_wifi_password"`
-`#define INFLUXDB_URL "your_influxdb_url"`
-`#define INFLUXDB_ORG "your_influxdb_org"`
-`#define INFLUXDB_BUCKET "your_influxdb_bucket"`
-`#define INFLUXDB_TOKEN "your_influxdb_token"`
+`#define WIFI_SSID "your_wifi_ssid"`,
+`#define WIFI_PASSWORD "your_wifi_password"`,
+`#define INFLUXDB_URL "your_influxdb_url"`,
+`#define INFLUXDB_ORG "your_influxdb_org"`,
+`#define INFLUXDB_BUCKET "your_influxdb_bucket"`,
+`#define INFLUXDB_TOKEN "your_influxdb_token"`,
 `#define TZ_INFO "your_timezone_info"`
 
 ## Instalation
